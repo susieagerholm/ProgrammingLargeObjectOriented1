@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="PROJECT_LOC/build"/>
+	<classpathentry kind="lib" path="lib/junit-4.4.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>

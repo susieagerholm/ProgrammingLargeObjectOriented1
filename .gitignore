@@ -1,0 +1,13 @@
+.metadata
+.sonar
+sonar-project.properties
+bin
+build
+doxygen
+javadoc
+Backup*
+*.bak
+*.a
+*.log
+*__OBSOLETE__
+__OBSOLETE__*
